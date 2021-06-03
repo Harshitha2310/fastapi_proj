@@ -1,5 +1,4 @@
-#pip install fastapi
-#pip install uvicorn
+
 from typing import Optional
 
 from fastapi import FastAPI
