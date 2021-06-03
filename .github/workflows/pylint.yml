@@ -20,5 +20,5 @@ jobs:
         pip install fastapi
         pip install unicorn
     - name: Analysing the code with pylint
-      run: |
-        pylint `ls -R|grep .py$|xargs`
+      
+        
